@@ -1,2 +1,2 @@
+<img src="https://github.com/Rushi-Repo/WSD-Homework5/blob/main/screenshots/postman.png?raw=true" />
 
-https://github.com/github/{WSD-Homework5}/screenshots/query.png
